@@ -1,4 +1,4 @@
-package org.smart4j.wqs.day006;
+package org.smart4j.wqs.day007;
 
 import java.util.List;
 
